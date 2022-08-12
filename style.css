@@ -1,0 +1,93 @@
+#navbarMonstera {
+  display: flex;
+  justify-content: space-between;
+}
+#navMid {
+  display: flex;
+  font-size: 18px;
+  /* font-family: "Roboto", sans-serif; */
+}
+h4 {
+  padding: 0px 45px;
+}
+
+#navEnd {
+  display: flex;
+}
+
+#navEnd img {
+  position: relative;
+  padding: 18px 12px;
+  right: 22px;
+}
+#navFirst {
+  padding: 10px 0px;
+}
+#imgMain {
+  position: relative;
+  left: 60rem;
+  bottom: 33rem;
+}
+
+#midWholePart12 {
+  position: relative;
+  top: 5rem;
+  padding-left: 20px;
+}
+
+.btn {
+  background-color: rgb(35, 110, 68);
+  border: 2px solid white;
+  color: white;
+  border-radius: 25px;
+  font-size: 1.5rem;
+  padding: 10px 40px 10px 15px;
+}
+
+#midWholePart122 img {
+  position: absolute;
+  left: 11rem;
+  bottom: 0.7rem;
+}
+#monstera {
+  /* position: relative; */
+
+  font-size: 7.5rem;
+  /* left: 8rem; */
+  /* top: 5rem; */
+}
+#midWholePart11 {
+  font-size: 20px;
+  position: relative;
+  /* left: 4rem; */
+  top: 6rem;
+}
+
+#monstera li {
+  /* bottom: 10rem; */
+}
+.list {
+  position: relative;
+  top: -5rem;
+}
+.home {
+  text-decoration: underline;
+}
+
+#midWholePart13 {
+  position: relative;
+  top: 27rem;
+  display: inline-flex;
+  align-items: center;
+  left: 10rem;
+}
+
+.midWholePart13Parts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#feeding {
+  position: relative;
+  right: 2rem;
+}
